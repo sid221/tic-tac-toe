@@ -1,5 +1,7 @@
 [[redirects]]
-    /*    /index.html   200
+  from = "/*"
+  to = "/index.html"
+  status = 200
     
 [[redirects]]
   from = "/*"
