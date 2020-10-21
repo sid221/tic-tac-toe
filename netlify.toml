@@ -1,0 +1,7 @@
+[[redirects]]
+    /*    /index.html   200
+    
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 301
